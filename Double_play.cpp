@@ -249,7 +249,6 @@ int Double_play::Play_game(){
 		imgScore2.setPosition(650,20);
 		drawSprite(imgScore2);
 		
-		_table.setPosition(0,85);
 		drawSprite(_table);
 
 		_paddle1.setPosition(_paddle1.get_x()-12,_paddle1.get_y()-33);

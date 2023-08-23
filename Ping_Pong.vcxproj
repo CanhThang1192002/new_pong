@@ -87,6 +87,7 @@
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Online_play.cpp" />
     <ClCompile Include="Paddle.cpp" />
     <ClCompile Include="Play.cpp" />
     <ClCompile Include="Server.cpp" />
